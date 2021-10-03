@@ -1,0 +1,385 @@
+{
+  "lista": [
+    {
+      "key": "1",
+      "title": "O Pequeno Príncipe",
+      "synopsis": "No deserto do Saara, um piloto de avião sofre uma pane no motor e é obrigado a fazer um pouso de emergência, precisando ficar lá por alguns dias até consertar seu avião. Assim ele conhece o Pequeno Príncipe, um garotinho que vem de um planeta pequeno, distante e muito diferente do nosso, em uma viagem na busca por novos amigos. Em sua jornada, o Pequeno Príncipe encontra diferentes personagens e seu contato com o aviador os leva a repensar o sentido da vida.",
+      "link": "https://iframe.dacast.com/vod/5b9b93c6-6e29-434c-41c5-1f9252f1a233/7d2cdad4-8796-9a59-c4d5-066c943d2718",
+      "thumbnail": "../../assets/DEV_Poster_O-Pequeno-Príncipe.jpg",
+      "Artista": "Núria Kíffen",
+      "categoria": "Infantil",
+      "classificacao": "Livre",
+      "emAlta": true,
+      "descricaoClassifica": "Livre",
+      "elenco": "Cezar Pizetta, Diana Adada Padilha, Giovana Rutkoski, Regina Prates, Sérgio Bellozupko",
+      "producao": "Lene Venerio",
+      "direcao": "Sulanger Bavaresco e Maria José Martins",
+      "duracao": "1 hora e 09 minutos",
+      "videoID": "5b9b93c6-6e29-434c-41c5-1f9252f1a233",
+      "videoID2": "7d2cdad4-8796-9a59-c4d5-066c943d2718",
+      "datas": [
+        {
+          "dia": "05/10",
+          "horarios": [
+            {
+              "horario": "08:30",
+              "preco": 9.99
+            },
+            {
+              "horario": "10:30",
+              "preco": 9.99
+            },
+            {
+              "horario": "14:00",
+              "preco": 9.99
+            },
+            {
+              "horario": "16:00",
+              "preco": 9.99
+            },
+            {
+              "horario": "20:00",
+              "preco": 9.99
+            }
+          ]
+        },
+        {
+          "dia": "06/10",
+          "horarios": [
+            {
+              "horario": "08:30",
+              "preco": 9.99
+            },
+            {
+              "horario": "10:30",
+              "preco": 9.99
+            },
+            {
+              "horario": "14:00",
+              "preco": 9.99
+            },
+            {
+              "horario": "16:00",
+              "preco": 9.99
+            },
+            {
+              "horario": "20:00",
+              "preco": 9.99
+            }
+          ]
+        },
+        {
+          "dia": "07/10",
+          "horarios": [
+            {
+              "horario": "08:30",
+              "preco": 9.99
+            },
+            {
+              "horario": "10:30",
+              "preco": 9.99
+            },
+            {
+              "horario": "14:00",
+              "preco": 9.99
+            },
+            {
+              "horario": "16:00",
+              "preco": 9.99
+            },
+            {
+              "horario": "20:00",
+              "preco": 9.99
+            }
+          ]
+        },
+        {
+          "dia": "08/10",
+          "horarios": [
+            {
+              "horario": "08:30",
+              "preco": 9.99
+            },
+            {
+              "horario": "10:30",
+              "preco": 9.99
+            },
+            {
+              "horario": "14:00",
+              "preco": 9.99
+            },
+            {
+              "horario": "16:00",
+              "preco": 9.99
+            },
+            {
+              "horario": "20:00",
+              "preco": 9.99
+            }
+          ]
+        },
+        {
+          "dia": "09/10",
+          "horarios": [
+            {
+              "horario": "10:00",
+              "preco": 19.99
+            },
+            {
+              "horario": "14:00",
+              "preco": 19.99
+            },
+            {
+              "horario": "16:00",
+              "preco": 19.99
+            },
+            {
+              "horario": "18:00",
+              "preco": 19.99
+            },
+            {
+              "horario": "20:00",
+              "preco": 19.99
+            }
+          ]
+        },
+        {
+          "dia": "10/10",
+          "horarios": [
+            {
+              "horario": "10:00",
+              "preco": 19.99
+            },
+            {
+              "horario": "14:00",
+              "preco": 19.99
+            },
+            {
+              "horario": "16:00",
+              "preco": 19.99
+            },
+            {
+              "horario": "18:00",
+              "preco": 19.99
+            },
+            {
+              "horario": "20:00",
+              "preco": 19.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "3",
+      "title": "Abrigo",
+      "synopsis": "No subúrbio de uma cidade grande brasileira, uma família é desapropriada de sua casa para a construção de uma obra pública. Sem dinheiro e sem rumo, vagam pelas ruas em busca de abrigo, até que resolvem retornar às ruínas do lugar que um dia foi sua morada, fazendo reviver os seus sonhos.",
+      "link": "https://iframe.dacast.com/vod/5b9b93c6-6e29-434c-41c5-1f9252f1a233/7a2277de-8015-2d9e-bf0c-9b5d5d5add78",
+      "thumbnail": "../../assets/abrigo.jpg",
+      "Artista": "Aman Moraes",
+      "categoria": "Infantil",
+      "classificacao": "Livre",
+      "emAlta": true,
+      "descricaoClassifica": "Livre",
+      "elenco": "Aman Moraes, Bia Ribeiro, Emiliano Fischer, Jéssica Barreto, Michael Alves, Sandro Toledo",
+      "producao": "Thaynná Curcino, Bia Ribeiro e Sandro Toledo",
+      "direcao": "Emiliano Fischer e Reinaldo Dutra",
+      "duracao": "55 minutos",
+      "videoID": "5b9b93c6-6e29-434c-41c5-1f9252f1a233",
+      "videoID2": "7a2277de-8015-2d9e-bf0c-9b5d5d5add78",
+      "datas": [
+        {
+          "dia": "05/10",
+          "horarios": [
+            {
+              "horario": "08:30",
+              "preco": 9.99
+            },
+            {
+              "horario": "10:30",
+              "preco": 9.99
+            },
+            {
+              "horario": "14:00",
+              "preco": 9.99
+            },
+            {
+              "horario": "16:00",
+              "preco": 9.99
+            },
+            {
+              "horario": "20:00",
+              "preco": 9.99
+            }
+          ]
+        },
+        {
+          "dia": "06/10",
+          "horarios": [
+            {
+              "horario": "08:30",
+              "preco": 9.99
+            },
+            {
+              "horario": "10:30",
+              "preco": 9.99
+            },
+            {
+              "horario": "14:00",
+              "preco": 9.99
+            },
+            {
+              "horario": "16:00",
+              "preco": 9.99
+            },
+            {
+              "horario": "20:00",
+              "preco": 9.99
+            }
+          ]
+        },
+        {
+          "dia": "07/10",
+          "horarios": [
+            {
+              "horario": "08:30",
+              "preco": 9.99
+            },
+            {
+              "horario": "10:30",
+              "preco": 9.99
+            },
+            {
+              "horario": "14:00",
+              "preco": 9.99
+            },
+            {
+              "horario": "16:00",
+              "preco": 9.99
+            },
+            {
+              "horario": "20:00",
+              "preco": 9.99
+            }
+          ]
+        },
+        {
+          "dia": "08/10",
+          "horarios": [
+            {
+              "horario": "08:30",
+              "preco": 9.99
+            },
+            {
+              "horario": "10:30",
+              "preco": 9.99
+            },
+            {
+              "horario": "14:00",
+              "preco": 9.99
+            },
+            {
+              "horario": "16:00",
+              "preco": 9.99
+            },
+            {
+              "horario": "20:00",
+              "preco": 9.99
+            }
+          ]
+        },
+        {
+          "dia": "09/10",
+          "horarios": [
+            {
+              "horario": "10:00",
+              "preco": 9.99
+            },
+            {
+              "horario": "14:00",
+              "preco": 9.99
+            },
+            {
+              "horario": "16:00",
+              "preco": 9.99
+            },
+            {
+              "horario": "18:00",
+              "preco": 9.99
+            },
+            {
+              "horario": "20:00",
+              "preco": 9.99
+            }
+          ]
+        },
+        {
+          "dia": "10/10",
+          "horarios": [
+            {
+              "horario": "10:00",
+              "preco": 9.99
+            },
+            {
+              "horario": "14:00",
+              "preco": 9.99
+            },
+            {
+              "horario": "16:00",
+              "preco": 9.99
+            },
+            {
+              "horario": "18:00",
+              "preco": 9.99
+            },
+            {
+              "horario": "20:00",
+              "preco": 9.99
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "user": [
+    {
+      "id": 3
+    },
+    {
+      "id": "s21d123",
+      "asd": "123"
+    },
+    {
+      "id": "PDpF5KdyyoQVPEQ4zm7t5vLjTNB3",
+      "confirmacao": true,
+      "fav": [
+        "Casa Grande e Senzala\", \"Chapeuzinho vermelho', 'Chapeuzinho vermelho', 'Onde eu guardo um sonho', 'Casa Grande e Senzala', 'Chapeuzinho vermelho', 'Onde eu guardo um sonho', 'Sobrevoar"
+      ]
+    },
+    {
+      "id": "7ABol7NNF7TF6NTgSHGY3CXgWRp2",
+      "confirmacao": true
+    },
+    {
+      "id": "ncpuQrcfArSmbG3P09rmC92FI162"
+    },
+    {
+      "id": "IWDfd5acayTzd2T1yfSNaZxotSS2",
+      "fav": [
+        "Chapeuzinho vermelho', 'Onde eu guardo um sonho', 'Casa Grande e Senzala', 'Casa Grande e Senzala', 'Sobrevoar', 'Onde eu guardo um sonho', 'Chapeuzinho vermelho', 'Sobrevoar', 'Casa Grande e Senzala', 'Chapeuzinho vermelho', 'Onde eu guardo um sonho', 'Sobrevoar"
+      ]
+    },
+    {
+      "id": "hOyuhExg7ff5tux8dstbXrYJag92",
+      "fav": [
+        "Casa Grande e Senzala"
+      ]
+    },
+    {
+      "id": "79lp7JOIfUMmAAzqfJOnn2HiGXq1"
+    },
+    {
+      "id": "iCrs7u6AFuTHgIjBm1NcT0TOMFg1"
+    }
+  ]
+}
