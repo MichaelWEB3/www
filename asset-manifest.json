@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "./static/css/main.2b65d198.chunk.css",
-    "main.js": "./static/js/main.fe69b783.chunk.js",
-    "main.js.map": "./static/js/main.fe69b783.chunk.js.map",
+    "main.css": "./static/css/main.fd7bdc59.chunk.css",
+    "main.js": "./static/js/main.8a660d06.chunk.js",
+    "main.js.map": "./static/js/main.8a660d06.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.bbb920c1.js",
     "runtime-main.js.map": "./static/js/runtime-main.bbb920c1.js.map",
     "static/css/2.c9d6f08e.chunk.css": "./static/css/2.c9d6f08e.chunk.css",
-    "static/js/2.521f1665.chunk.js": "./static/js/2.521f1665.chunk.js",
-    "static/js/2.521f1665.chunk.js.map": "./static/js/2.521f1665.chunk.js.map",
+    "static/js/2.61217a1b.chunk.js": "./static/js/2.61217a1b.chunk.js",
+    "static/js/2.61217a1b.chunk.js.map": "./static/js/2.61217a1b.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.120108855c32d7d0e2f3bd46c6b48a44.js": "./precache-manifest.120108855c32d7d0e2f3bd46c6b48a44.js",
+    "precache-manifest.9330d67512b2362bf7e5e40fa0cb2310.js": "./precache-manifest.9330d67512b2362bf7e5e40fa0cb2310.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.c9d6f08e.chunk.css.map": "./static/css/2.c9d6f08e.chunk.css.map",
-    "static/css/main.2b65d198.chunk.css.map": "./static/css/main.2b65d198.chunk.css.map",
-    "static/js/2.521f1665.chunk.js.LICENSE.txt": "./static/js/2.521f1665.chunk.js.LICENSE.txt",
+    "static/css/main.fd7bdc59.chunk.css.map": "./static/css/main.fd7bdc59.chunk.css.map",
+    "static/js/2.61217a1b.chunk.js.LICENSE.txt": "./static/js/2.61217a1b.chunk.js.LICENSE.txt",
     "static/media/ForFriends.png": "./static/media/ForFriends.86a389b5.png",
+    "static/media/Termos01.jpg": "./static/media/Termos01.199d59b1.jpg",
+    "static/media/Termos02.jpg": "./static/media/Termos02.1c4ce72d.jpg",
     "static/media/android-logo.png": "./static/media/android-logo.df2e7026.png",
     "static/media/apple-logo.png": "./static/media/apple-logo.212fac53.png",
     "static/media/apresentation.mp4": "./static/media/apresentation.266a3eb2.mp4",
@@ -47,8 +49,8 @@
   "entrypoints": [
     "static/js/runtime-main.bbb920c1.js",
     "static/css/2.c9d6f08e.chunk.css",
-    "static/js/2.521f1665.chunk.js",
-    "static/css/main.2b65d198.chunk.css",
-    "static/js/main.fe69b783.chunk.js"
+    "static/js/2.61217a1b.chunk.js",
+    "static/css/main.fd7bdc59.chunk.css",
+    "static/js/main.8a660d06.chunk.js"
   ]
 }
