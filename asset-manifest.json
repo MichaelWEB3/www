@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "./static/css/main.caf60505.chunk.css",
-    "main.js": "./static/js/main.04036bfb.chunk.js",
-    "main.js.map": "./static/js/main.04036bfb.chunk.js.map",
+    "main.js": "./static/js/main.97bc146a.chunk.js",
+    "main.js.map": "./static/js/main.97bc146a.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.bbb920c1.js",
     "runtime-main.js.map": "./static/js/runtime-main.bbb920c1.js.map",
     "static/css/2.5d5ce2c3.chunk.css": "./static/css/2.5d5ce2c3.chunk.css",
-    "static/js/2.d83c98fe.chunk.js": "./static/js/2.d83c98fe.chunk.js",
-    "static/js/2.d83c98fe.chunk.js.map": "./static/js/2.d83c98fe.chunk.js.map",
+    "static/js/2.8793efdc.chunk.js": "./static/js/2.8793efdc.chunk.js",
+    "static/js/2.8793efdc.chunk.js.map": "./static/js/2.8793efdc.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.574e43f5969b646506063368827475d4.js": "./precache-manifest.574e43f5969b646506063368827475d4.js",
+    "precache-manifest.53de91986beec64f731392795a352215.js": "./precache-manifest.53de91986beec64f731392795a352215.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.5d5ce2c3.chunk.css.map": "./static/css/2.5d5ce2c3.chunk.css.map",
     "static/css/main.caf60505.chunk.css.map": "./static/css/main.caf60505.chunk.css.map",
-    "static/js/2.d83c98fe.chunk.js.LICENSE.txt": "./static/js/2.d83c98fe.chunk.js.LICENSE.txt",
+    "static/js/2.8793efdc.chunk.js.LICENSE.txt": "./static/js/2.8793efdc.chunk.js.LICENSE.txt",
     "static/media/ForFriends.png": "./static/media/ForFriends.86a389b5.png",
     "static/media/Termos01.jpg": "./static/media/Termos01.199d59b1.jpg",
     "static/media/Termos02.jpg": "./static/media/Termos02.1c4ce72d.jpg",
@@ -40,6 +40,8 @@
     "static/media/melhoresDoMundo.png": "./static/media/melhoresDoMundo.0d2d4ada.png",
     "static/media/mug.png": "./static/media/mug.9d716a5f.png",
     "static/media/produtora.png": "./static/media/produtora.bf275040.png",
+    "static/media/slidebom.jpg": "./static/media/slidebom.887a4a76.jpg",
+    "static/media/slidnovometade.jpg": "./static/media/slidnovometade.a3bbfdb9.jpg",
     "static/media/telespectador.png": "./static/media/telespectador.b515afa2.png",
     "static/media/ticket1.png": "./static/media/ticket1.c59feeb0.png",
     "static/media/ticket2-backstage.png": "./static/media/ticket2-backstage.aa660ad7.png",
@@ -49,8 +51,8 @@
   "entrypoints": [
     "static/js/runtime-main.bbb920c1.js",
     "static/css/2.5d5ce2c3.chunk.css",
-    "static/js/2.d83c98fe.chunk.js",
+    "static/js/2.8793efdc.chunk.js",
     "static/css/main.caf60505.chunk.css",
-    "static/js/main.04036bfb.chunk.js"
+    "static/js/main.97bc146a.chunk.js"
   ]
 }
