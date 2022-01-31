@@ -1,0 +1,65 @@
+
+.filtro{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.checkbox {
+    display: inline-block;
+    vertical-align: middle;
+ 
+    flex: 1;
+  }
+  .checkbox input {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: relative;
+    width: 1px;
+  }
+  .checkbox label {
+    position: relative;
+    padding-left: 2.2em;
+    display: inline-block;
+  }
+  .checkbox label::before {
+    content: "";
+    display: inline-block;
+    vertical-align: middle;
+    height: 1.5em;
+    width: 1.5em;
+    background: black;
+    margin-right: 0.5em;
+    border: 1px solid rgb(240, 238, 238);
+    border-radius: 2px;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+    transition: all 0.2s ease;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translate(0, -50%);
+    justify-content: space-between;
+  }
+  
+ 
+  .checkbox input:checked + label::before {
+    background: #FDCC12    ;
+    border-color: #FDCC12;
+  }
+  .checkbox input:checked + label::after {
+    opacity: 1;
+   
+  }
+
+
+  .controle{
+    width: 20px;
+    height: 25px;
+    margin-right: 25px;
+    position: relative;
+    transform: rotate(90deg);
+  }
