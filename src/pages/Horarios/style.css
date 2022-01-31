@@ -1,0 +1,65 @@
+
+#vireSeuTelefone {
+    display:none;
+}
+
+@media (max-width: 920px) and (orientation:landscape) {
+
+    #vireSeuTelefone {
+        display:initial;
+        position: absolute;
+        top: 0;
+        left:0;
+        width: 100vw;
+        height: 100vh; 
+        z-index:100;
+    }
+  }
+
+.radio{
+    width: 15px;
+    height: 25px;
+    border-radius: 0px;
+    
+}
+
+.radio::-ms-check  {
+    color: red;
+    background: black;
+    padding: 1em;
+}
+
+input[type='radio'] {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+
+    border-radius: 50%;
+    width: 18px;
+    height: 18px;
+
+    border: 1px solid black;
+    transition: 0.2s all linear;
+    margin-right: 5px;
+
+    position: relative;
+    top: 1px;
+    }
+
+    input[type='radio'] {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;  
+    width: 18px;
+    height: 18px;
+    border: 1px solid white;
+    transition: 0.2s all linear;
+    margin-right: 5px;
+    position: relative;
+    top: 1px;
+    }
+
+    input[type='radio']:checked, input[type='radio']:checked {
+      border: 1px solid black;
+      background: #FDCC12;
+    }

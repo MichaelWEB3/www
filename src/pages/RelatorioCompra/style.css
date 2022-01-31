@@ -1,0 +1,21 @@
+.button{
+    background-color: #FDCC12;
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+    width: 80%;
+    border:none;
+
+
+}
+.button:hover{
+    background-color: #FDCC12;
+}
+
+.input{
+    width: 100%;
+    height: 35px;
+    margin: 5px;
+    padding: 10px;
+    font-size: 13px;
+}

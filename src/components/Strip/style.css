@@ -1,0 +1,68 @@
+
+
+.FormGroup {
+	margin: 0 15px 20px;
+	padding: 0;
+	width: 80vw;
+	border-style: none;
+	background-color: white;
+	will-change: opacity, transform;
+	box-shadow: 0 6px 9px rgba(50, 50, 93, 0.06), 0 2px 5px rgba(0, 0, 0, 0.08), inset 0 1px 0 #ccc;
+	border-radius: 4px;
+
+	@media only screen and (max-width: 480px) {
+		
+		width: 80vw;
+		
+	};
+}
+
+.FormRow {
+	display: flex;
+
+	-ms-flex-align: center;
+	align-items: center;
+	margin-left: 15px;
+	height: 5vh;
+	
+}
+
+.StripeElement--webkit-autofill {
+	background: transparent !important;
+}
+
+.StripeElement {
+	width: 100%;
+	padding: 11px 15px 11px 0;
+
+	@media only screen and (max-width: 480px) {
+		
+		width: 100%;
+		padding: 0px;
+		
+	}
+	
+}
+
+
+.buttonStrip {
+	height:5vh;
+	background-color: #FDCC12;
+	color: black;
+	text-transform: uppercase;
+	border-radius: 5px;
+	width: 50vw;
+	transition: all .3s;
+	border:none;
+	font-weight: bolder;
+}
+
+.buttonStrip:hover{
+	background-color: #d29e02;
+}
+
+.buttonStrip:active {
+border: none;
+	box-shadow: 0 6px 9px rgba(50, 50, 93, 0.06), 0 2px 5px rgba(0, 0, 0, 0.08), inset 0 1px 0 #e298d8;
+	transform: scale(0.99);
+}
