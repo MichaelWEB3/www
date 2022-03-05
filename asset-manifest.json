@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "./static/css/main.9a3de027.chunk.css",
-    "main.js": "./static/js/main.2cd50d8c.chunk.js",
-    "main.js.map": "./static/js/main.2cd50d8c.chunk.js.map",
+    "main.css": "./static/css/main.104757c3.chunk.css",
+    "main.js": "./static/js/main.de996bef.chunk.js",
+    "main.js.map": "./static/js/main.de996bef.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.1b063b9a.js",
     "runtime-main.js.map": "./static/js/runtime-main.1b063b9a.js.map",
     "static/css/2.5d5ce2c3.chunk.css": "./static/css/2.5d5ce2c3.chunk.css",
-    "static/js/2.3dceb5da.chunk.js": "./static/js/2.3dceb5da.chunk.js",
-    "static/js/2.3dceb5da.chunk.js.map": "./static/js/2.3dceb5da.chunk.js.map",
+    "static/js/2.158c1405.chunk.js": "./static/js/2.158c1405.chunk.js",
+    "static/js/2.158c1405.chunk.js.map": "./static/js/2.158c1405.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.884ebe875a044eff132c1f9a3697590c.js": "./precache-manifest.884ebe875a044eff132c1f9a3697590c.js",
+    "precache-manifest.6b3c3b57237fd6cfc856d09401073b87.js": "./precache-manifest.6b3c3b57237fd6cfc856d09401073b87.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.5d5ce2c3.chunk.css.map": "./static/css/2.5d5ce2c3.chunk.css.map",
-    "static/css/main.9a3de027.chunk.css.map": "./static/css/main.9a3de027.chunk.css.map",
-    "static/js/2.3dceb5da.chunk.js.LICENSE.txt": "./static/js/2.3dceb5da.chunk.js.LICENSE.txt",
+    "static/css/main.104757c3.chunk.css.map": "./static/css/main.104757c3.chunk.css.map",
+    "static/js/2.158c1405.chunk.js.LICENSE.txt": "./static/js/2.158c1405.chunk.js.LICENSE.txt",
     "static/media/ForFriends.png": "./static/media/ForFriends.86a389b5.png",
     "static/media/Termos01.jpg": "./static/media/Termos01.199d59b1.jpg",
     "static/media/Termos02.jpg": "./static/media/Termos02.1c4ce72d.jpg",
@@ -35,6 +35,7 @@
     "static/media/icon.png": "./static/media/icon.8203eb44.png",
     "static/media/imagemAssinatura.png": "./static/media/imagemAssinatura.db0f1682.png",
     "static/media/investidor.png": "./static/media/investidor.eed8c3d8.png",
+    "static/media/logo-pw.png": "./static/media/logo-pw.8325e906.png",
     "static/media/logoretiro.png": "./static/media/logoretiro.9079b480.png",
     "static/media/melhoresDoMundo.png": "./static/media/melhoresDoMundo.0d2d4ada.png",
     "static/media/mug.png": "./static/media/mug.9d716a5f.png",
@@ -50,8 +51,8 @@
   "entrypoints": [
     "static/js/runtime-main.1b063b9a.js",
     "static/css/2.5d5ce2c3.chunk.css",
-    "static/js/2.3dceb5da.chunk.js",
-    "static/css/main.9a3de027.chunk.css",
-    "static/js/main.2cd50d8c.chunk.js"
+    "static/js/2.158c1405.chunk.js",
+    "static/css/main.104757c3.chunk.css",
+    "static/js/main.de996bef.chunk.js"
   ]
 }
